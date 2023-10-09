@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="APP.Credential.Api.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="APP_Credential_Api_wsCUIS_CUISService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://webservice.app.co.id/wsCUIS/CUISAuthentication.asmx</Value>
+    </Setting>
+    <Setting Name="APP_Credential_Api_wsCUIS_IKS_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://iksmill.app.co.id/wscuis/service.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
